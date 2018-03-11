@@ -1,0 +1,51 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: ‪‎‏‎‮‭⁮⁪⁫‍⁭⁬‌‫‌⁫‬⁭‭⁯‬‪‪​⁪⁯⁪‎⁫⁭⁪‌‬‌‮‎‬‬‪⁫‮
+// Assembly: ExCard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: D8B94D66-ABD1-4719-BD0B-1C7091C26581
+// Assembly location: C:\Users\Chris\Desktop\ExCard.exe
+
+internal enum \u202A‎‏‎‮‭⁮⁪⁫‍⁭⁬‌‫‌⁫‬⁭‭⁯‬‪‪​⁪⁯⁪‎⁫⁭⁪‌‬‌‮‎‬‬‪⁫‮
+{
+  Empty,
+  Object,
+  Char,
+  CharNullable,
+  Boolean,
+  BooleanNullable,
+  SByte,
+  SByteNullable,
+  Int16,
+  Int16Nullable,
+  UInt16,
+  UInt16Nullable,
+  Int32,
+  Int32Nullable,
+  Byte,
+  ByteNullable,
+  UInt32,
+  UInt32Nullable,
+  Int64,
+  Int64Nullable,
+  UInt64,
+  UInt64Nullable,
+  Single,
+  SingleNullable,
+  Double,
+  DoubleNullable,
+  DateTime,
+  DateTimeNullable,
+  DateTimeOffset,
+  DateTimeOffsetNullable,
+  Decimal,
+  DecimalNullable,
+  Guid,
+  GuidNullable,
+  TimeSpan,
+  TimeSpanNullable,
+  BigInteger,
+  BigIntegerNullable,
+  Uri,
+  String,
+  Bytes,
+  DBNull,
+}
